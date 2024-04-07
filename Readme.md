@@ -1,4 +1,4 @@
-# Grocify (Frontend)
+# Grocify (FullStack)
 
 ## Description
 
